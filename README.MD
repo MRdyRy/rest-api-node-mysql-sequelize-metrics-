@@ -1,5 +1,4 @@
 <h2>Simple Rest Api with </h2>
-<hr/>
 <ul>
   <li>nodeJS</li>
   <li>Mysql</li>
@@ -11,7 +10,6 @@
 
 
 <h2>Installation</h2>
-<hr/>
 <ul>
   <li>clone repo by type this command : <blockquote>"git clone https://github.com/MRdyRy/rest-api-node-mysql-sequelize-metrics-/new/master"</blockquote></li>
   <li>run <blockquote>npm install</blockquote> for download dependencies</li>
