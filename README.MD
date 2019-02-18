@@ -11,7 +11,7 @@
 
 <h2>Installation</h2>
 <ul>
-  <li>clone repo by type this command : <blockquote>"git clone https://github.com/MRdyRy/rest-api-node-mysql-sequelize-metrics-/new/master"</blockquote></li>
+  <li>clone repo by type this command : <blockquote>"git clone https://github.com/MRdyRy/rest-api-node-mysql-sequelize-metrics-.git"</blockquote></li>
   <li>run <blockquote>npm install</blockquote> for download dependencies</li>
   <li>import db to your enviroment</li>
   <li>open your browser <blockquote>http://localhost:8081/appmetrics-dash/</blockquote> for monitoring</li>
