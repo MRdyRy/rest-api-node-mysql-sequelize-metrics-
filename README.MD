@@ -1,4 +1,4 @@
-<h2>Simple Rest Api with </h2>
+<h2>Simple Rest Api </h2>
 <ul>
   <li>nodeJS</li>
   <li>Mysql</li>
